@@ -11,7 +11,7 @@ export default function AuthForm(){
             view='magic_link'
             showLinks={false}
             providers={[]}
-            redirectTo='https://next-js-crud.vercel.app/auth/callback'
+            redirectTo='https://next-js-crud-five.vercel.app/auth/callback'
             appearance={{
                 theme: 'dark',
                 button: {
